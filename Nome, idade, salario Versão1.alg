@@ -1,14 +1,14 @@
 algoritmo "TrocarValores"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 15/03/2022
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 nome:caracter
 idade:inteiro
 salario,porcentagem,total:real
 inicio
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 escreval("digite seu nome: ",nome)
 leia(nome)
 escreval("digite sua idade: ")
