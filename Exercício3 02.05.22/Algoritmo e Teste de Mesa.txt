@@ -1,0 +1,10 @@
+Algoritmo Comissão
+	Digite o preço unitário da peça e armazene em preco
+	Digite a quantida que foi vendida e armazene em quantidade
+	Faça comissao = ((preco*quantidade)*(5/100))
+	Mostre comissao
+FimAlgoritmo
+
+Teste de Mesa
+Preço_Unitário   Quantidade_Vendida   Comissão
+     2.5 	        200		 25
