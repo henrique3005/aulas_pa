@@ -1,0 +1,16 @@
+Algoritmo Soma dos Números Quadrados
+	Digite o primeiro valor e armazene em a
+	Digite o segundo valor e armazene em b
+	Digite o terceiro valor e armazene em c
+	Digite o quarto valor e armazene em d
+	Faça aq = a * a
+	Faça bq = b * b
+	Faça cq = c * c
+	Faça dq = d * d
+	Faça total = aq + bq + cq + dq
+	Mostre total
+FimAlgoritmo
+
+Teste de Mesa
+Números	  Quadrados dos Números   Total
+2,4,5,6		4,16,25,36	   81
