@@ -1,0 +1,11 @@
+Algoritmo Custo_Carro
+	Digite o custo de fábrica do carro e armazene em custo_carro
+	Faça imposto = (custo_carro * 45/100) + custo_carro
+	Faça distrubuicao = (imposto * 28/100) + imposto
+	Faça consumidor = distribuicao
+	Mostre consumidor
+FimAlgoritmo
+
+Teste de Mesa
+Custo do Carro   Imposto(45%)   Distribuição(28%)   Consumidor
+   25.000	   11.250	    10.150	      46.400
