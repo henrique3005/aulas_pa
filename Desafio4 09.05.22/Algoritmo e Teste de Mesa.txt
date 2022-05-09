@@ -1,0 +1,12 @@
+Algoritmo Gasolina
+	Digite o percuso percorrido e armazene em per
+	Digite o tempo gasto de horas nesse percuso e armazene em hora
+	Digite o tempo gasto de minutos nesse percuso e armazene em min
+	Faça tempo = (min/60)+hora
+	Faça final = per/tempo
+	Mostre final
+FimAlgoritmo
+
+Teste de Mesa
+   Per   Hora   Min   Final
+   150    1     13    122km/h
