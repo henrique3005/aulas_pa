@@ -1,0 +1,13 @@
+Algoritmo ConversãoHoras
+	Digite a quantidade de horas que você trabalha e armazene em hora
+	Digite a quantidade de mintutos que você trabalha e armazene em min
+	Faça conclusao = (min/60)+hora
+	Digite a quantidade de reais que você ganha por hora e armazene em reais_hora
+	Faça final = (conclusao * reais_hora) * 170/100
+	Mostre final
+FimAlgoritmo
+
+Teste de Mesa
+Horas   Min   Conclusão   Reais_Hora   Final
+ 15	45      15.75	     25        669,37
+ 20	0 	 20	     25        850,00
